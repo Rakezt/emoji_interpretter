@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap");
+.App {
+  font-family: "Merriweather", serif;
+  text-align: center;
+}
+body {
+  background-color: grey;
+}
+input {
+  padding: 1rem;
+  width: 30rem;
+}
