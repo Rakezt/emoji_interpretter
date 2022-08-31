@@ -7,7 +7,15 @@ var emojidictionary = {
   "😕": "Confused",
   "😪": "Sleepy",
   "😠": "Angry",
-  "👋": "Goodbye"
+  "👋": "Goodbye",
+  "🤩": "Star-Struck",
+  "😘": "Blowing a Kiss",
+  "🤑": "Money-Mouth",
+  "🤐": "Zipper-Mouth",
+  "🙃": "Upside-Down",
+  "😉": "Winking",
+  "🥴": "Woozy",
+  "🥶": "Cold"
 };
 var defineEmoji = Object.keys(emojidictionary);
 
